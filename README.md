@@ -60,8 +60,7 @@ As of 2026-06-03:
 
 The following local folders are not committed:
 
-- Raw CNINFO PDF/text cache.
-- Full CNINFO query-hit tables.
+- Raw CNINFO PDF/text cache under `data/raw/`.
+- Full CNINFO query-hit tables under `data/raw/` or uncommitted generated outputs.
 - CSMAR source data.
 - Market-return panels and supply-chain raw tables.
-
