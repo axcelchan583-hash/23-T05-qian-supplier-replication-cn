@@ -10,6 +10,19 @@ Default source priority:
 2. Qualified securities disclosure media or company release, only when it clearly predates CNINFO and can be verified.
 3. General financial-news database records only as leads; they must be traced back to a company action or qualified disclosure source.
 
+## Pre-Manual-Coding Diagnostic
+
+Before the final manual event table is complete, the current 1,055-row CNINFO priority PDF pool may be used for a provisional event-study run.
+
+This run has a limited purpose:
+
+- verify that rebuilt CNINFO events can be linked to historical supplier relationships;
+- check whether market-return and AR/CAR code runs on the new event source;
+- compare signs across noisy treatment definitions before spending manual-coding time;
+- identify whether sample loss occurs mainly at event validation, supplier linking, or return availability.
+
+This run is not the final replication test. The 1,055 rows are priority PDF candidates, not verified GenAI initiatives. Any estimate from this run should be labeled `pre-manual-coding diagnostic` and excluded from the acceptance rule below.
+
 ## Event Date Alignment
 
 - Non-trading-day events are moved to the next trading day.
@@ -63,4 +76,3 @@ Classify the China replication as having a Qian-style signal only if:
 - the positive-return proportion is above 0.5.
 
 If not, report that the main supplier reaction does not replicate under the audited China event definition.
-
