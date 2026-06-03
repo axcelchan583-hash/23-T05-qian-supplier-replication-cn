@@ -1,0 +1,6 @@
+﻿qian_auto_label,events,supplier_links
+exclude_denial_no_current_business,79,117
+keep_candidate_strong_specific_initiative,44,62
+review_possible_specific_initiative,35,55
+exclude_boilerplate_attention_only,23,35
+review_ambiguous_strict_genai,23,45

@@ -1,0 +1,8 @@
+﻿auto_pdf_label,rows,announcements,firms
+review_denial_or_uncertain,285,285,229
+review_possible_initiative,285,285,219
+review_backfill_or_support_doc,270,270,213
+likely_qian_initiative,106,106,91
+review_action_context_unclear_actor,81,81,73
+exclude_no_fulltext_genai,20,20,20
+exclude_mention_without_initiative,8,8,6

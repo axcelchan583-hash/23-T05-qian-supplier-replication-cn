@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Local secrets and environments
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Raw and restricted data
+data/raw/
+data/interim/
+data/processed/
+*.pdf
+*.caj
+*.dta
+*.sav
+*.parquet
+*.feather
+
+# Large generated full-harvest tables
+results/**/cninfo_fulltext_*.csv.gz
+results/**/cninfo_priority_pdf_downloaded_classified.csv.gz
+results/**/*.log
+
+# Temporary files
+*.tmp
+~$*
+

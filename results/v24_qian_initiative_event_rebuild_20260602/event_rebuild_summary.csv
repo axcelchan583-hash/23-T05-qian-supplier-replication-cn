@@ -1,0 +1,16 @@
+﻿metric,value
+all_event_rows,21177.0
+all_unique_firms,2704.0
+strict_genai_any_rows,21049.0
+strict_genai_company_text_rows,21014.0
+auto_keep_candidate_rows,13276.0
+auto_keep_candidate_unique_firms,1672.0
+first_auto_candidate_unique_firms,1672.0
+supplier_linked_event_rows,2154.0
+supplier_linked_auto_keep_candidate_rows,1364.0
+supplier_linked_auto_keep_candidate_unique_firms,200.0
+first_supplier_linked_auto_candidate_unique_firms,200.0
+v23_upstream_unique_focal_events,204.0
+v23_upstream_auto_keep_candidate_events,79.0
+v23_upstream_auto_excluded_events,125.0
+v23_upstream_auto_excluded_pct,61.27

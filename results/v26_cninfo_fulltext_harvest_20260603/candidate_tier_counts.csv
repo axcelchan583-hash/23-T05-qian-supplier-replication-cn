@@ -1,0 +1,6 @@
+﻿candidate_tier,rows,announcements,firms
+exclude_no_strict_genai_after_snippet,97083,97083,5325
+backfill_or_noisy_doc_with_action,7522,7522,1815
+strict_genai_context_without_action,5089,5089,1485
+priority_manual_event_candidate,1289,1289,640
+review_denial_or_uncertain_genai,702,702,383

@@ -1,0 +1,10 @@
+﻿stage,rows,announcements,firms
+raw_query_hits,280662,111935,5359
+dedup_announcements,111935,111935,5359
+a_share_formal_rows,111685,111685,5327
+priority_manual_event_candidate,1289,1289,640
+candidate_pool_for_manual_review,13900,13900,2306
+first_candidate_per_firm,2306,2306,2306
+priority_first_candidate_per_firm,640,640,640
+priority_2023_2024_first_candidate_per_firm,263,263,263
+priority_2023_2024_top3_candidates_per_firm,406,406,263
